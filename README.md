@@ -4,7 +4,7 @@ Twenty Twenty One WordPress child theme is built for the Twenty Twenty One paren
 
 /*
 
-Theme Name: Twenty Twenty-One
+Theme Name: Twenty Twenty-One Child
 
 Template: twentytwentyone
 

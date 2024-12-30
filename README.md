@@ -12,7 +12,7 @@ Theme URI: https://wordpress.org/themes/twentytwentyone/
 
 Author: wordpresschildtheme.com
 
-Author URI: https://web38.secure-secure.co.uk/wordpresschildtheme.com
+Author URI: https://www.wordpresschildtheme.com
 
 Version: 1.0.0
 
